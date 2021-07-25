@@ -1,4 +1,5 @@
-![](new.gif)
+<!-- ![](new.gif) -->
+<img align="center" src="new.gif" height="200px" width="900px">
 <h1 align="center">नमस्ते (Namaste) <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="40px" width="40px">, Myself, Gyana</h1>
 <h3 align="center">A passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h3>
 <img align="right" width="400px" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -9,7 +10,7 @@
 
 - 🌱 I’m currently learning **node.js ,react.js etc**
 
-- 👯 I’m looking to collaborate on **wev devlopement projects**
+- 👯 I’m looking to collaborate on **web devlopement projects**
 
 - 🤝 I’m looking for help with **advance dsa concepts**
 
@@ -19,7 +20,7 @@
 
 - 📫 How to reach me **grp.gyanaranjan@gmail.com**
 
-- ⚡ Fun fact **I had Ridden bike to Puri at 3AM.**
+<!-- - ⚡ Fun fact **I had Ridden bike to Puri at 3AM.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
