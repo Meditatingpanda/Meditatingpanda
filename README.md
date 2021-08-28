@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonewolf2002&label=Profile%20views&color=0e75b6&style=flat" alt="lonewolf2002" /> </p>
 
-- 🔭 I’m currently working on [my personal portfolio](https://lonewolf2002.github.io/)
+- 🔭 I’m currently working on [my personal portfolio](https://lonewolf2002.github.io/new%20portfolio/index.html)
 
 - 🌱 I’m currently learning **node.js ,react.js etc**
 
