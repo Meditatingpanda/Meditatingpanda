@@ -14,7 +14,6 @@
 
 - 🤝 I’m looking for help with **advance dsa concepts**
 
-- 👨‍💻 All of my projects are available at [https://lonewolf2002.github.io/](https://lonewolf2002.github.io/)
 
 - 💬 Ask me about **react,graphic desiging ,cp,travelling.**
 
