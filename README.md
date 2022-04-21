@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [my personal portfolio](https://lonewolf2002.github.io/new%20portfolio/index.html)
 
-- 🌱 I’m currently learning **node.js ,react.js etc**
+- 🌱 I’m currently learning **Nextjs etc**
 
 - 👯 I’m looking to collaborate on **web devlopement projects**
 
