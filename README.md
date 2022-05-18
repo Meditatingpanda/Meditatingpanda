@@ -51,7 +51,7 @@
 </p> -->
 <!-- Badges -->
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/lonewolf2002"><img src="https://github-readme-stats.vercel.app/api?username=lonewolf2002&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lonewolf2002's GitHub stats" /></a>
 
@@ -59,6 +59,6 @@
 
 <a href="http://www.github.com/lonewolf2002"><img src="https://activity-graph.herokuapp.com/graph?username=lonewolf2002&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="http://www.github.com/lonewolf2002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolf2002&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/lonewolf2002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolf2002&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 
