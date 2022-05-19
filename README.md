@@ -10,15 +10,7 @@
 ╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝░╚════╝░  ░░░╚═╝░░░╚═╝░░░╚════╝░╚══════╝╚═╝░░╚═╝╚═════╝░
          
 <h1 align="center">नमस्ते (Namaste), Myself, Gyana</h1>
-</pre>
-
-<!-- <h3 align="center">A passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h3> -->
-
-
-
-
-    
-         
+</pre>         
 <table>
   
   <tr>
