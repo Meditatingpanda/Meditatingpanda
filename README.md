@@ -18,6 +18,8 @@
 
 - 🔭 I’m currently working on [Felvin Instant Apps](https://github.com/lonewolf2002/instant-apps)
 
+- 🐼 Connect With Me on [MeditatingPanda](https://meditatingpanda.vercel.app/)
+
 - 🌱 I’m currently learning **Nextjs, node js etc**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
