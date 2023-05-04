@@ -16,7 +16,7 @@
   <tr>
     <td width="45%"><p align="left" > <img src="https://komarev.com/ghpvc/?username=lonewolf2002&label=Profile%20views&color=0e75b6&style=flat" alt="lonewolf2002" /> </p>
 
-- 🔭 Ex-Intern At [Felvin Instant Apps](https://github.com/lonewolf2002/instant-apps)
+- 🔭 FullStack Developer At [FullCircle](https://www.fullcircle.fyi/)
 
 - 🐼 Connect With Me on [MeditatingPanda](https://meditatingpanda.vercel.app/)
 
