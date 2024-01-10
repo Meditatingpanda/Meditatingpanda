@@ -16,7 +16,7 @@
   <tr>
     <td width="45%"><p align="left" > <img src="https://komarev.com/ghpvc/?username=lonewolf2002&label=Profile%20views&color=0e75b6&style=flat" alt="lonewolf2002" /> </p>
 
-- 🔭 Frontend Developer At [Zenskar](https://www.zenskar.com/)
+- 🔭Ex Frontend Developer At [Zenskar](https://www.zenskar.com/)
 
 - 🐼 Connect With Me on [MeditatingPanda](https://meditatingpanda.vercel.app/)
 
